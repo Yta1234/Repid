@@ -1,0 +1,71 @@
+body
+{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.logo
+{
+    margin-left: 450px;
+    margin-top: -1050px;
+}
+
+.create
+{
+    margin-left: 650px;
+    margin-top: -40px;
+}
+
+.platform
+{
+    margin-left: 450px;
+    margin-top: 60px;
+}
+
+button
+{
+    background-color: #4F4D4D; 
+      color: white; 
+      padding: 30px 80px; 
+      text-align: center; 
+      text-decoration: none; 
+      display: inline-block; 
+      border: none; 
+      border-radius: 10px; 
+      cursor: pointer; 
+      transition: background-color 0.3s; 
+      margin-left: 780px;
+      margin-top: 150px;
+      font-size: 30px;
+    }
+
+
+    button:hover 
+    { 
+      background-color: #3e8e41;
+    }
+
+    .gif-one
+    {
+        width: 350px;
+        margin-left: 370px;
+        margin-top: -270px;
+    }
+
+    .gif-two
+    {
+        width: 330px;
+        margin-left: 1130px;
+        margin-top: -320px;
+    }
+
+    .sans
+    {
+        width: 350px;
+    }
+
+    .paps
+    {
+        width: 340px;
+    }
